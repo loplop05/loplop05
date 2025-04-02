@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @loplop05
 
-  - I’m currently learning PYTHON,java GUI stuff , DataScience topics (:
+  - I’m Python dude
+  - Machine learning & DataBase explorer
+  - DataScience & Data Analysis 
+
 
 
