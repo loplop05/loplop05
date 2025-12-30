@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm <b>Ammar Alharoun</b>, a <b>BackEnd , Python & Machine Learning And DataScience</b> Developer 🌍.<br/>
+   <b>BackEnd , Python & Machine Learning And DataScience</b> Student 🌍.<br/>
 </p>
 
 <hr style="border: 1px solid #00bfff; background: linear-gradient(to right, #00bfff, #ff7f50); margin: 20px 0;" />
