@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ammar Al-Haroun</h1>
-<h3 align="center">AI & Data Science enthusiast | C# .Net & Python developer | Passionate about building smart systems and solving algorithmic challenges. Currently exploring Machine Learning, Data Analysis, and Web Development projects to grow as a future data scientist.</h3>
+<h3 align="center">Hi 👋, I'm Ammar Al-Haroun</h3>
+<p align="center">
+AI & Data Science student passionate about building Scalable and well Designed Applications.<br>
+Skilled in Python & C# (.NET), with a focus on Machine Learning, Data Analysis, and problem solving.<br>
+Aspiring Data Scientist 🚀
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loplop05&label=Profile%20views&color=0e75b6&style=flat" alt="loplop05" /> </p>
 
