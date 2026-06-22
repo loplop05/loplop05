@@ -246,18 +246,7 @@ mindmap
 
 ---
 
-##  Latest Blog Posts & Articles
 
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
--  Understanding Neural Networks from Scratch
--  Building Your First NLP Model with PyTorch
--  Data Preprocessing Techniques for ML
--  Optimizing Deep Learning Models
-<!-- BLOG-POST-LIST:END -->
-
-</div>
 
 ---
 
@@ -305,9 +294,9 @@ Certifications:
 
 ### 📫 How to reach me
 
-💼 **Professional:** [Ammaralharoon@hotmail.com](mailto:your-email@domain.com)  
+ **Professional:** [Ammaralharoon@hotmail.com](mailto:your-email@domain.com)  
   
-💬 **Open to:** Collaborations, ML Projects, Research Opportunities
+ **Open to:** Collaborations, ML Projects, Research Opportunities
 
 </div>
 
