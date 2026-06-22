@@ -59,23 +59,13 @@ class Ammar:
     @property
     def currently_working_on(self):
         return [
-            "🎓 Neural Networks & Deep Learning (Course: 0135341)",
+            "🎓 Neural Networks & Deep Learning ",
             "🔬 Exploring Large Language Models & Transformers",
-            "💳 Credit Card Fraud Detection with ANNs",
             "🛠️ Building scalable ML pipelines",
-            "📚 Contributing to open-source AI projects"
+            
         ]
     
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Reading AI research papers",
-            "afternoon": "💻 Coding & Building ML models",
-            "evening": "📖 Learning new technologies",
-            "night": "🌙 Side projects & Open source"
-        }
-    
-    fun_fact = "I debug with print() statements and I'm not ashamed! 😄🐛"
-    motto = "Turning coffee into code, and data into intelligence ☕→💡"
+  
 
 # Initialize
 ammar = Ammar()
@@ -173,7 +163,7 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -185,7 +175,7 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 <div align="center">
 
-### 💡 Current Focus Areas
+###  Current Focus Areas
 
 ```mermaid
 mindmap
@@ -247,7 +237,7 @@ mindmap
 
 |  Focus Area |  Learning Path |  Building |
 |:---:|:---:|:---:|
-| Deep Learning & Neural Networks | Advanced PyTorch & TensorFlow | Fraud Detection System |
+| Deep Learning & Neural Networks | Advanced PyTorch & TensorFlow |
 | Natural Language Processing | Transformer Architecture | Text Classification Models |
 | Computer Vision | CNN & Object Detection | Image Recognition Apps |
 | MLOps & Deployment | Docker & CI/CD | Scalable ML Pipelines |
