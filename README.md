@@ -37,20 +37,20 @@ class Ammar:
             "ai_ml": [
                 "Deep Learning", "Neural Networks",
                 "Natural Language Processing", 
-                "Computer Vision", "Transformers"
+               ,"Machine Learning "
             ],
             "data_science": [
                 "Data Analysis", "Data Visualization",
-                "Feature Engineering", "Statistical Modeling",
-                "Predictive Analytics"
+                "Feature Engineering"
+                
             ],
             "programming": [
                 "Python", "C# .NET", "C++", 
-                "Java", "JavaScript"
+                "Java"
             ],
             "frameworks": [
-                "PyTorch", "TensorFlow", "Scikit-learn",
-                "Pandas", "NumPy", "Keras"
+                "PyTorch", "Scikit-learn",
+                "Pandas", "NumPy", 
             ],
             "databases": ["SQL Server", "MySQL", "PostgreSQL"],
             "tools": ["Git", "Jupyter", "Docker", "VS Code"]
