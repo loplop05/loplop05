@@ -78,7 +78,7 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 <div align="center">
 
-## 🎯 Core Competencies
+##  Core Competencies
 
 <table>
 <tr>
@@ -89,17 +89,17 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 </td>
 <td align="center" width="25%">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-<br><strong>Python Development</strong>
+<br><strong>Python </strong>
 <br><sub>Data Science, ML Engineering</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
-<br><strong>.NET Development</strong>
-<br><sub>Backend, API Development</sub>
+<br><strong>.NET </strong>
+<br><sub>Backend</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Database" width="55" height="55" />
-<br><strong>Database Management</strong>
+<br><strong>Database</strong>
 <br><sub>SQL Server, MySQL</sub>
 </td>
 </tr>
@@ -191,10 +191,6 @@ mindmap
     Computer Vision
       Image Classification
       Object Detection
-    MLOps
-      Model Deployment
-      CI/CD Pipelines
-      Monitoring
 ```
 
 </div>
