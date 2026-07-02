@@ -173,27 +173,6 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 <br/>
 
-<div align="center">
-
-###  Current Focus Areas
-
-```mermaid
-mindmap
-  root((Ammar's<br/>Focus))
-    Deep Learning
-      Neural Networks
-      CNNs & RNNs
-      Transformers
-    NLP
-      Text Processing
-      Sentiment Analysis
-      LLMs
-    Computer Vision
-      Image Classification
-      Object Detection
-```
-
-</div>
 
 ---
 
