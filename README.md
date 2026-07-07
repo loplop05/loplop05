@@ -242,7 +242,7 @@ Current Courses:
 
 Certifications:
   - Deep Learning Specialization (In Progress)
-  - Machine Learning Engineering
+  - Machine Learning MasterClass
   - Python for Data Science
 ```
 
@@ -259,20 +259,15 @@ Certifications:
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loplop05)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
 
 <br/>
 
-### 📫 How to reach me
+###  How to reach me
 
  **Professional:** [Ammaralharoon@hotmail.com](mailto:your-email@domain.com)  
   
- **Open to:** Collaborations, ML Projects, Research Opportunities
-
 </div>
 
 ---
