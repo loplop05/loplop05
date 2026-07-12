@@ -50,7 +50,7 @@ class Ammar:
             ],
             "frameworks": [
                 "PyTorch", "Scikit-learn",
-                "Pandas", "NumPy", 
+                "Pandas", "NumPy", "SeaBorn" , "streamLit"
             ],
             "databases": ["SQL Server", "MySQL", "PostgreSQL"],
             "tools": ["Git", "Jupyter", "Docker", "VS Code"]
