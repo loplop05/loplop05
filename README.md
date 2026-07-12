@@ -151,31 +151,6 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 </div>
 
----
-
-##  Featured Projects
-
-<div align="center">
-
-
-
-</div>
-
-<br/>
-
-
----
-
-
-
-<br/>
-
-<div align="center">
-
-
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -183,9 +158,6 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 [![trophy](https://github-profile-trophy.vercel.app/?username=loplop05&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&bg_color=1e293b&title_color=3b82f6&text_color=cbd5e1&icon_color=3b82f6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
 ##  Contribution Activity
 
 <div align="center">
@@ -193,8 +165,6 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 [![Ammar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loplop05&bg_color=1e293b&color=3b82f6&line=3b82f6&point=cbd5e1&area=true&hide_border=true&area_color=3b82f6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
 
 ##  Highlights & Achievements
 
@@ -209,11 +179,6 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 </div>
 
----
-
-
-
----
 
 ##  Education & Certifications
 
