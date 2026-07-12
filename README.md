@@ -55,19 +55,9 @@ class Ammar:
             "databases": ["SQL Server", "MySQL", "PostgreSQL"],
             "tools": ["Git", "Jupyter", "Docker", "VS Code"]
         }
-    
-    @property
-    def currently_working_on(self):
-        return [
-            "🎓 Neural Networks & Deep Learning ",
-            "🔬 Exploring Large Language Models & Transformers",
-            "🛠️ Building scalable ML pipelines",
-            
-        ]
-    
   
 
-# Initialize
+
 ammar = Ammar()
 print(f"Hello, World! I'm {ammar.name} 👋")
 ```
@@ -109,7 +99,7 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 ---
 
-## 🧠 AI / Machine Learning Arsenal
+##  AI / Machine Learning Arsenal
 
 <div align="center">
 
