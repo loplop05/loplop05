@@ -166,18 +166,6 @@ print(f"Hello, World! I'm {ammar.name} 👋")
 
 </div>
 
-##  Highlights & Achievements
-
-<div align="center">
-
-|  Focus Area |  Learning Path |  Building |
-|:---:|:---:|:---:|
-| Deep Learning & Neural Networks | Advanced PyTorch & TensorFlow |
-| Natural Language Processing | Transformer Architecture | Text Classification Models |
-| Computer Vision | CNN & Object Detection | Image Recognition Apps |
-| MLOps & Deployment | Docker & CI/CD | Scalable ML Pipelines |
-
-</div>
 
 
 ##  Education & Certifications
