@@ -215,10 +215,6 @@ Certifications:
 
 ---
 
-<div align="center">
-
-
-</div>
 
 
 
